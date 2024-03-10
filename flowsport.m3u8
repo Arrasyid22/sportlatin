@@ -7,3 +7,5 @@ http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=309875_&ext
 http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=280260_&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3373146,AVERAGE-BANDWIDTH=2191434,RESOLUTION=640x320,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=533664_&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2373146,AVERAGE-BANDWIDTH=1191434,RESOLUTION=540x220,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+http://newlife3.wanicelife.com:8880/live/3ca8283n18/asdfrd32/59526.m3u8
